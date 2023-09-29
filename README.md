@@ -9,7 +9,7 @@
 - ⚙️ Love to learn how the thinks work
 
 
-## <picture> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px></picture>  **Programming languages**
+## <picture> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </picture>  **Programming languages**
 
 <center>
 
@@ -19,7 +19,7 @@
 
 </center>
 
-## <picture> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px></picture>  **Extra**
+## <picture> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> </picture> **Extra**
 
 <center>
 
@@ -35,7 +35,7 @@
 </center>
 
 
-## <picture> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture> **Github Stats**
+## <picture> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> </picture> **Github Stats**
 
 <div align="center">
 <a href="https://github.com/JPereira1330/">
@@ -49,9 +49,11 @@
 
 <a href="https://www.linkedin.com/in/jos%C3%A9claudio/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  jpereira1330-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
 
 <a href="mailto:jpereira1330@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  jpereira1330-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
 
 ---
 Last Edited on: 29/09/2023
